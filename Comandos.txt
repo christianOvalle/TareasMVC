@@ -1,0 +1,8 @@
+Comandos
+
+builder.Services.AddDbContext<ApplicationDBContext>(opciones => {
+opciones.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), x=>x.UseNetTopologySuite());
+
+--------------------------------------------------------------------
+
+Scaffold-DbContext name=DefaultConnection -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entidades
