@@ -73,3 +73,4 @@ C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\r
 C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.pdb
 C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.genruntimeconfig.cache
 C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\ref\TareasMVC.dll
+C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
