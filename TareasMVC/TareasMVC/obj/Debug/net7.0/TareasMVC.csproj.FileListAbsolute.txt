@@ -74,3 +74,8 @@ C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\T
 C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.genruntimeconfig.cache
 C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\ref\TareasMVC.dll
 C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\bin\Debug\net7.0\en\TareasMVC.resources.dll
+C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Controllers.HomeController.en.resources
+C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.csproj.GenerateResource.cache
+C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\en\TareasMVC.resources.dll
+C:\Users\crist\Documents\GitHub\TareasMVC\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Home.Index.en.resources
